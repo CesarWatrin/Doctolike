@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div>
+  <div class="layout-container">
     <slot />
   </div>
 </template>
